@@ -22,3 +22,6 @@ strike 8200 /health 200 fuzz engines detect afl-fuzz
 cyberlens 8001 variant_store 5 ELITE feedback remutate rop_offset+0x10 weaponize.py:686
 c2-dect 8443 30 endpoints JWT WS stable >1h
 Orden: F0 esta semana (yo puedo setup + androguard + Go), F1 necesitas Docker Desktop + VBox + 16GB RAM (tu PC 93% RAM jarvis.jsonl:92 → libera), F2 requiere aprobación allowed_hosts.
+
+
+Mejora los paths a la misma carpeta, env para desacargar herramientas que no estan y no depender del bin, ademas para instalar a los minimo privilegios
